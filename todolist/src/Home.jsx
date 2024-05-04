@@ -48,6 +48,13 @@ const handleDelete = (id) => {
 
   return (
     <div className='background'>
+      <div>
+        <h3 className='goal'>"Chase Your Dreams"</h3>
+      </div>
+      <div>
+      <img src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters:format(jpg)/https://specials-images.forbesimg.com/dam/imageserve/1092571024/0x0.jpg%3Ffit%3Dscale" alt="Image" className='image' />
+      
+      </div>
     <div className='back'>
       
       <div className='home'>

@@ -1,6 +1,6 @@
 .back{
   background-color: rgb(94, 128, 117);
-  height: 800px;
+  height: 680px;
   width: 500px;
   display: flex;
   flex-direction: column; 
@@ -11,6 +11,12 @@
     left: 35%;
     margin-top: -350px;
     border-radius: 50px;
+  margin-left: 300px;
+}
+.image{
+  width: 650px;
+  margin-left: 100px;
+  border-radius: 20px;
 }
 
 body{
@@ -79,11 +85,11 @@ body{
 }
 
 .top{
-  background-color: rgb(241, 243, 242);
+  background-color: rgb(204, 231, 218);
   width: 300px;
   align-items: center;
   justify-content: center;
-  border-radius: 300px;
+  border-radius: 20px;
   
 }
 
@@ -94,4 +100,12 @@ body{
 
 .line_through{
   text-decoration: line-through;
+}
+
+.goal{
+  font-size: 50px;
+  font-weight: 1500;
+  margin-left: 200px;
+  margin-top: 100px;
+
 }
